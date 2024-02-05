@@ -9,8 +9,8 @@ from pymessenger.bot import Bot
 
 app = Flask(__name__)
 
-ACCESS_TOKEN = ""
 VERIFY_TOKEN = ""
+ACCESS_TOKEN = "EAAF7Jxw4YqwBOZB9Ex2fjqfvzaPwhr8oAOVHr298S37bRs30x0MpbVvO3XI4jCEGdmVLnh1ZBrDJgJp27ExSuvBVKaaYliR8bZAsxbR4skYMrBxSzqZCIBlRECslBfWKCjSXRNNxb3LHBswcVkONwQVFrirrAwSpZC5jkkPaURNAJLP4F2BhtUGSJDPezsYUPQQZDZD"
 bot = Bot(ACCESS_TOKEN)
 
 
